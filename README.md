@@ -62,7 +62,7 @@ Me chamo Victor Pizzarro, tenho 21 anos e sou do Rio de Janeiro. Atualmente, est
      align="left" 
     alt="Go"
     title="Go" 
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
 />
@@ -131,7 +131,7 @@ Me chamo Victor Pizzarro, tenho 21 anos e sou do Rio de Janeiro. Atualmente, est
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
