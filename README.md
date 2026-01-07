@@ -48,14 +48,13 @@ Me chamo Victor Pizzarro, tenho 21 anos e sou do Rio de Janeiro. Atualmente, est
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
 <img 
-     align="left" 
-    alt="Flutter"
-    title="Flutter" 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
 <img 
@@ -65,14 +64,6 @@ Me chamo Victor Pizzarro, tenho 21 anos e sou do Rio de Janeiro. Atualmente, est
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img 
@@ -119,14 +110,7 @@ Me chamo Victor Pizzarro, tenho 21 anos e sou do Rio de Janeiro. Atualmente, est
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Docker" 
@@ -158,23 +142,6 @@ Me chamo Victor Pizzarro, tenho 21 anos e sou do Rio de Janeiro. Atualmente, est
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    width="400"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victorpizzarro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=victorpizzarro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      width="360"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpizzarro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpizzarro&theme=tokyonight&layout=compact&langs_count=9)
