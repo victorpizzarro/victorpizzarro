@@ -140,8 +140,4 @@ Me chamo Victor Pizzarro, tenho 21 anos e sou do Rio de Janeiro. Atualmente, est
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=victorpizzarro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpizzarro&theme=tokyonight&layout=compact&langs_count=9)
