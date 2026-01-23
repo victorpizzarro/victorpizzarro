@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Victor Pizzarro, tenho 21 anos e sou do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAETERJ. Sou um grande entusiasta de tudo que envolva criatividade, por isso sou apaixonado em programação e arte.
+Me chamo Victor Pizzarro, tenho 22 anos e sou do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAETERJ. Sou um grande entusiasta de tudo que envolva criatividade, por isso sou apaixonado em programação e arte.
 
 <p align="left">
     <a href="https://www.youtube.com/@KhanD.winner">
