@@ -58,21 +58,30 @@ Me chamo Victor Pizzarro, tenho 22 anos e sou do Rio de Janeiro. Atualmente, est
 />
 
 <img 
-     align="left" 
-    alt="Go"
-    title="Go" 
+    align="left" 
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <img 
-     align="left" 
-    alt="C"
-    title="C" 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img 
@@ -94,22 +103,12 @@ Me chamo Victor Pizzarro, tenho 22 anos e sou do Rio de Janeiro. Atualmente, est
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
 
 <img 
     align="left" 
@@ -128,14 +127,7 @@ Me chamo Victor Pizzarro, tenho 22 anos e sou do Rio de Janeiro. Atualmente, est
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
+
 
 <br/>
 <br/>
