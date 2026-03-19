@@ -72,7 +72,7 @@ Me chamo Victor Pizzarro, tenho 22 anos e sou do Rio de Janeiro. Atualmente, est
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" 
+    src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" 
 />
 
 <img 
