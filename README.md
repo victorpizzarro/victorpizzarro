@@ -41,6 +41,15 @@ Me chamo Victor Pizzarro, tenho 22 anos e sou do Rio de Janeiro. Atualmente, est
 ### 🤖 Linguagens e Tecnologias
 
 <img 
+    align="left" 
+    alt="Go"
+    title="Go" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original-wordmark.svg" 
+/>
+
+<img 
      align="left" 
     alt="Java"
     title="Java" 
@@ -56,6 +65,9 @@ Me chamo Victor Pizzarro, tenho 22 anos e sou do Rio de Janeiro. Atualmente, est
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
+
+
+
 
 <img 
     align="left" 
